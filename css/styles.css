@@ -3,3 +3,8 @@
   font-style: italic;
   font-size: large;
 }
+
+.highlight {
+  color: blue;
+  font-style: oblique;
+}
